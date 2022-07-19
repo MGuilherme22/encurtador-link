@@ -29,7 +29,7 @@ header>.logo {
     margin: 33px;
 }
 
-a {
+.header-logo > a {
     color: #03fa6e;
     padding-left: 2rem;
     text-decoration: none;
